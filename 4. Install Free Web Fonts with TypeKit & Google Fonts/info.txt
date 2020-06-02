@@ -1,0 +1,2 @@
+4. Install Free Web Fonts with TypeKit & Google Fonts
+update index.html
