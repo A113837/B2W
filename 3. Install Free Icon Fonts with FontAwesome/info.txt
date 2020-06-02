@@ -1,0 +1,2 @@
+3. Install Free Icon Fonts with FontAwesome
+replace previous 2 index.html
