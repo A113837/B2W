@@ -1,0 +1,4 @@
+8. Learn How To Create The Parallax Scrolling Effect in Less Than 5-Minutes
+change:
+1)index.html (in assets folder)
+2)add and create main.js (in B2W\assets\js\main.js)
