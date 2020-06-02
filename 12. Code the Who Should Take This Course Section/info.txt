@@ -1,0 +1,4 @@
+12. Code the Who Should Take This Course Section
+
+update index.html section who benefits
+custom.css update #who-benefits
