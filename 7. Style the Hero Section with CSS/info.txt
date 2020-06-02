@@ -1,0 +1,2 @@
+7. Style the Hero Section with CSS
+add custom.css
