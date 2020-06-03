@@ -1,0 +1,8 @@
+14. Code the Final Project Section
+
+update index.html
+edit custom.css
+
+#project-features{
+	text-align: center;
+}
