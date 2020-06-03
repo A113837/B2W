@@ -1,0 +1,12 @@
+15. Code the Featurette Section and Embed a YouTube Video
+
+update index.html
+-add section featurette
+
+update custom.css
+#featurette{
+	background: url('../img/stuff-bg.jpg') 50% 100% repeat fixed;
+	background-size: cover;
+	text-align: center;
+	color: white;
+}
