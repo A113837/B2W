@@ -1,0 +1,3 @@
+2. Code the Blog Excerpts with HTML
+
+update blog.html
