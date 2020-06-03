@@ -1,0 +1,9 @@
+18. The Simple Trick to Vertically Align Your Content Within an Element
+
+/*
+parent letak 
+display: table;
+child letak 
+display: table-cell; 
+vertical-align: middle;
+*/
