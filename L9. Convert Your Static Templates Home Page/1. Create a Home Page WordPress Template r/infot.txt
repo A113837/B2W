@@ -1,0 +1,4 @@
+1. Create a Home Page WordPress Template r
+
+page-home.php
+footer.php
