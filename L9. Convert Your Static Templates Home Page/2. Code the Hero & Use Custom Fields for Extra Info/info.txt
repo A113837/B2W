@@ -1,0 +1,3 @@
+2. Code the Hero & Use Custom Fields for Extra Info
+
+edit page-home.php
