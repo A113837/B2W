@@ -1,0 +1,1 @@
+11. Clean Your Template Using get_template_part()
